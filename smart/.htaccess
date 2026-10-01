@@ -1,0 +1,3 @@
+#Options +FollowSymlinks
+RewriteEngine On
+RewriteRule ^glamour/callback /glamour/callback.php
